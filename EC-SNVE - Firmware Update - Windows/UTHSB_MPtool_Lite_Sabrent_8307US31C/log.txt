@@ -1,0 +1,8 @@
+----------- UTHSB_MPtool_Lite [v1.11.0.0817] 2021 06 03 11:28 -----------
+
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
